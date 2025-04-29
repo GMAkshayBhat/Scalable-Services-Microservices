@@ -1,2 +1,2 @@
-# -Scalable-Services-Assignment
+# Scalable-Services-Assignment
 University Management System 
