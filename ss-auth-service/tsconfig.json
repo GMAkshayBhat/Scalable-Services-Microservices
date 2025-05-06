@@ -10,5 +10,8 @@
     "skipLibCheck": true
   },
   "include": ["src/**/*", "prisma/generated"],
-  "exclude": ["node_modules", "dist"]
+  "exclude": ["node_modules", "dist"],
+  "ts-node": {
+    "esm": true
+  }
 }
