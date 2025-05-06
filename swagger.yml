@@ -131,9 +131,9 @@ paths:
                   $ref: '#/components/schemas/Student'
               example:
                 - id: 1
-                  name: John Doe
+                  name: Akshay Bhat
                   age: 20
-                  email: john.doe@example.com
+                  email: akshay@example.com
                   department: Computer Science
                   year: 3
                 - id: 2
